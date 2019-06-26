@@ -1,0 +1,83 @@
+body {
+  font-family: Nunito;
+  font-weight: 200;
+  line-height: 1.2;
+}
+
+h1 {
+  font-family: Nunito;
+  font-weight: 400;
+  text-decoration: italic;
+  font-size: 30px;
+}
+ h2 {
+  font-family: Nunito;
+  font-weight: 200;
+  line-height: 3;
+  font-size: 18px;
+ }
+
+.photo {
+  width: 200px;
+  height: auto;
+  opacity: 0.8;
+}
+.text-align {
+  text-align: center;
+}
+div {
+  margin: auto;
+}
+
+.info-box {
+  background-color: rgb(242,241,240);
+  padding: 20px 40px 50px 40px;
+
+}
+
+.info-box p {
+  font-family: Halant;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.link {
+  font-size: 20px;
+  font-weight: 300;
+  font-family: Halant;
+  background-color: rgb(242,241,240);
+  padding: 10px 30px 10px 30px;
+  width: 120px;
+  height: auto;
+  margin-bottom: 30px;
+  border-radius: 3px;
+}
+
+.link a:hover {
+  text-decoration:underline;
+}
+
+
+.footer i {
+  padding: 40px;
+  font-size: 30px;
+  color: rgb(202,201,200);
+}
+
+.footer i:hover {
+  color: rgb(152,151,150);
+  font-size: 35px;
+}
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.list-inline > li {
+  display: inline-flex;
+  padding: 0px 20px;
+}
+
+
+
+
